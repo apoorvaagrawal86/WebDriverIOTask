@@ -1,12 +1,12 @@
 {
-  "uid" : "8978dd4350eafbba",
-  "name" : "should verify the heading and content of models section",
-  "fullName" : "My Landing application.should verify the heading and content of models section",
-  "historyId" : "f996bc9a19c5a15fd33f7aa1681ed853",
+  "uid" : "5d798074b9ed4dda",
+  "name" : "should verify the video testimonials heading",
+  "fullName" : "My Landing application.should verify the video testimonials heading",
+  "historyId" : "f16bf15ce7a0e0fb18b95001e0148b6c",
   "time" : {
-    "start" : 1655243984516,
-    "stop" : 1655243986145,
-    "duration" : 1629
+    "start" : 1655243980898,
+    "stop" : 1655243981036,
+    "duration" : 138
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "My Landing application"
   }, {
     "name" : "testMethod",
-    "value" : "should verify the heading and content of models section"
+    "value" : "should verify the video testimonials heading"
   }, {
     "name" : "package",
     "value" : "My Landing application"
@@ -49,14 +49,12 @@
     "value" : "chrome-102.0.5005.63"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8978dd4350eafbba.json",
+  "source" : "5d798074b9ed4dda.json",
   "parameterValues" : [ "chrome-102.0.5005.63" ]
 }

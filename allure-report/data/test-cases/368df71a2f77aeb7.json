@@ -1,12 +1,12 @@
 {
-  "uid" : "ca40ce88d12bc1df",
-  "name" : "should verify the video testimonials videos and play them",
-  "fullName" : "My Landing application.should verify the video testimonials videos and play them",
-  "historyId" : "946c55c4982f62042cb83d4474a67cdd",
+  "uid" : "368df71a2f77aeb7",
+  "name" : "should verify the decades of innovation section with link",
+  "fullName" : "My Landing application.should verify the decades of innovation section with link",
+  "historyId" : "9bd607d96bbb783c2da5b5a8f5f14de",
   "time" : {
-    "start" : 1655243981037,
-    "stop" : 1655243984003,
-    "duration" : 2966
+    "start" : 1655243984003,
+    "stop" : 1655243984516,
+    "duration" : 513
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "My Landing application"
   }, {
     "name" : "testMethod",
-    "value" : "should verify the video testimonials videos and play them"
+    "value" : "should verify the decades of innovation section with link"
   }, {
     "name" : "package",
     "value" : "My Landing application"
@@ -49,14 +49,12 @@
     "value" : "chrome-102.0.5005.63"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ca40ce88d12bc1df.json",
+  "source" : "368df71a2f77aeb7.json",
   "parameterValues" : [ "chrome-102.0.5005.63" ]
 }

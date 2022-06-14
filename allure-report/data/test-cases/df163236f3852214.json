@@ -1,12 +1,12 @@
 {
-  "uid" : "405d592458da560e",
+  "uid" : "df163236f3852214",
   "name" : "should have the right title",
   "fullName" : "My Landing application.should have the right title",
   "historyId" : "d6b94e81ee22d8624526f6ea67486c68",
   "time" : {
-    "start" : 1655243979690,
-    "stop" : 1655243980543,
-    "duration" : 853
+    "start" : 1655247512042,
+    "stop" : 1655247513388,
+    "duration" : 1346
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -15,7 +15,7 @@
   "newFailed" : false,
   "newBroken" : false,
   "newPassed" : false,
-  "retriesCount" : 0,
+  "retriesCount" : 1,
   "retriesStatusChange" : false,
   "beforeStages" : [ ],
   "afterStages" : [ ],
@@ -25,6 +25,9 @@
   }, {
     "name" : "language",
     "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
   }, {
     "name" : "thread",
     "value" : "0-0"
@@ -53,10 +56,18 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "c6a63e407b93fc1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243979690,
+        "stop" : 1655243980543,
+        "duration" : 853
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "405d592458da560e.json",
+  "source" : "df163236f3852214.json",
   "parameterValues" : [ "chrome-102.0.5005.63" ]
 }

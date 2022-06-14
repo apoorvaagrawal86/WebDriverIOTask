@@ -1,0 +1,60 @@
+{
+  "uid" : "f04484a7fa8ca0ae",
+  "name" : "should verify the car safety link",
+  "fullName" : "My Landing application.should verify the car safety link",
+  "historyId" : "115afd491dd34c83e0bea28130d9993d",
+  "time" : {
+    "start" : 1655243980860,
+    "stop" : 1655243980898,
+    "duration" : 38
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the car safety link"
+  }, {
+    "name" : "package",
+    "value" : "My Landing application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f04484a7fa8ca0ae.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

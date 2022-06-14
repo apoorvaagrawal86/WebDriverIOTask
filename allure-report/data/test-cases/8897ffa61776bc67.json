@@ -1,0 +1,73 @@
+{
+  "uid" : "8897ffa61776bc67",
+  "name" : "should verify the heading and content of models section",
+  "fullName" : "My Landing application.should verify the heading and content of models section",
+  "historyId" : "f996bc9a19c5a15fd33f7aa1681ed853",
+  "time" : {
+    "start" : 1655247518066,
+    "stop" : 1655247519647,
+    "duration" : 1581
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the heading and content of models section"
+  }, {
+    "name" : "package",
+    "value" : "My Landing application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "c05fbafabd0da5a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243984516,
+        "stop" : 1655243986145,
+        "duration" : 1629
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8897ffa61776bc67.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

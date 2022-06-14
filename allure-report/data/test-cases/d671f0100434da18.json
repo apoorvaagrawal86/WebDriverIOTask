@@ -1,12 +1,12 @@
 {
-  "uid" : "292ead71638a2c2e",
+  "uid" : "d671f0100434da18",
   "name" : "should accept the cookies",
   "fullName" : "My Landing application.should accept the cookies",
   "historyId" : "595cd265428f553d1079feb346e11efd",
   "time" : {
-    "start" : 1655243977096,
-    "stop" : 1655243979689,
-    "duration" : 2593
+    "start" : 1655247509208,
+    "stop" : 1655247512042,
+    "duration" : 2834
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -15,7 +15,7 @@
   "newFailed" : false,
   "newBroken" : false,
   "newPassed" : false,
-  "retriesCount" : 0,
+  "retriesCount" : 1,
   "retriesStatusChange" : false,
   "beforeStages" : [ ],
   "afterStages" : [ ],
@@ -25,6 +25,9 @@
   }, {
     "name" : "language",
     "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
   }, {
     "name" : "thread",
     "value" : "0-0"
@@ -52,11 +55,19 @@
   "hidden" : false,
   "retry" : false,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "94002ebaf26f3f68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243977096,
+        "stop" : 1655243979689,
+        "duration" : 2593
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "292ead71638a2c2e.json",
+  "source" : "d671f0100434da18.json",
   "parameterValues" : [ "chrome-102.0.5005.63" ]
 }

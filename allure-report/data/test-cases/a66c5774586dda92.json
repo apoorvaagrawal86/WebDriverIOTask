@@ -1,0 +1,73 @@
+{
+  "uid" : "a66c5774586dda92",
+  "name" : "should verify the video testimonials heading",
+  "fullName" : "My Landing application.should verify the video testimonials heading",
+  "historyId" : "f16bf15ce7a0e0fb18b95001e0148b6c",
+  "time" : {
+    "start" : 1655247513730,
+    "stop" : 1655247513776,
+    "duration" : 46
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the video testimonials heading"
+  }, {
+    "name" : "package",
+    "value" : "My Landing application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5d798074b9ed4dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243980898,
+        "stop" : 1655243981036,
+        "duration" : 138
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a66c5774586dda92.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

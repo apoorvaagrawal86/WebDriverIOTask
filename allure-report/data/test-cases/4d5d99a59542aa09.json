@@ -1,12 +1,12 @@
 {
-  "uid" : "60642cab36533bdb",
-  "name" : "should verify A-million-more video appears on clicking the videolink",
-  "fullName" : "My Landing application.should verify A-million-more video appears on clicking the videolink",
-  "historyId" : "bd753b743fc8c88fa27044cb6cedeca",
+  "uid" : "4d5d99a59542aa09",
+  "name" : "should verify the car safety link",
+  "fullName" : "My Landing application.should verify the car safety link",
+  "historyId" : "115afd491dd34c83e0bea28130d9993d",
   "time" : {
-    "start" : 1655243980543,
-    "stop" : 1655243980860,
-    "duration" : 317
+    "start" : 1655247513695,
+    "stop" : 1655247513729,
+    "duration" : 34
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -15,7 +15,7 @@
   "newFailed" : false,
   "newBroken" : false,
   "newPassed" : false,
-  "retriesCount" : 0,
+  "retriesCount" : 1,
   "retriesStatusChange" : false,
   "beforeStages" : [ ],
   "afterStages" : [ ],
@@ -25,6 +25,9 @@
   }, {
     "name" : "language",
     "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
   }, {
     "name" : "thread",
     "value" : "0-0"
@@ -36,7 +39,7 @@
     "value" : "My Landing application"
   }, {
     "name" : "testMethod",
-    "value" : "should verify A-million-more video appears on clicking the videolink"
+    "value" : "should verify the car safety link"
   }, {
     "name" : "package",
     "value" : "My Landing application"
@@ -53,10 +56,18 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "f04484a7fa8ca0ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243980860,
+        "stop" : 1655243980898,
+        "duration" : 38
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "60642cab36533bdb.json",
+  "source" : "4d5d99a59542aa09.json",
   "parameterValues" : [ "chrome-102.0.5005.63" ]
 }

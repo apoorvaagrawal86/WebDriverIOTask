@@ -1,81 +1,81 @@
 [ {
-  "uid" : "e7c079d1e6ae21b8",
-  "name" : "should verify the video testimonials heading",
-  "time" : {
-    "start" : 1655243980898,
-    "stop" : 1655243981036,
-    "duration" : 138
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ca40ce88d12bc1df",
-  "name" : "should verify the video testimonials videos and play them",
-  "time" : {
-    "start" : 1655243981037,
-    "stop" : 1655243984003,
-    "duration" : 2966
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8978dd4350eafbba",
-  "name" : "should verify the heading and content of models section",
-  "time" : {
-    "start" : 1655243984516,
-    "stop" : 1655243986145,
-    "duration" : 1629
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e08559fa8b23d3e1",
+  "uid" : "a66346034d75a547",
   "name" : "should verify the decades of innovation section with link",
   "time" : {
-    "start" : 1655243984003,
-    "stop" : 1655243984516,
-    "duration" : 513
+    "start" : 1655247517418,
+    "stop" : 1655247518066,
+    "duration" : 648
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c557d3cd7664edeb",
-  "name" : "should verify the car safety link",
+  "uid" : "fc88a49a13c8ef65",
+  "name" : "should verify the video testimonials videos and play them",
   "time" : {
-    "start" : 1655243980860,
-    "stop" : 1655243980898,
-    "duration" : 38
+    "start" : 1655247513776,
+    "stop" : 1655247517417,
+    "duration" : 3641
   },
   "status" : "passed",
-  "severity" : "normal"
+  "severity" : "critical"
 }, {
-  "uid" : "405d592458da560e",
+  "uid" : "df163236f3852214",
   "name" : "should have the right title",
   "time" : {
-    "start" : 1655243979690,
-    "stop" : 1655243980543,
-    "duration" : 853
+    "start" : 1655247512042,
+    "stop" : 1655247513388,
+    "duration" : 1346
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "60642cab36533bdb",
+  "uid" : "a66c5774586dda92",
+  "name" : "should verify the video testimonials heading",
+  "time" : {
+    "start" : 1655247513730,
+    "stop" : 1655247513776,
+    "duration" : 46
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42e1e9386ae9297c",
   "name" : "should verify A-million-more video appears on clicking the videolink",
   "time" : {
-    "start" : 1655243980543,
-    "stop" : 1655243980860,
-    "duration" : 317
+    "start" : 1655247513388,
+    "stop" : 1655247513694,
+    "duration" : 306
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4d5d99a59542aa09",
+  "name" : "should verify the car safety link",
+  "time" : {
+    "start" : 1655247513695,
+    "stop" : 1655247513729,
+    "duration" : 34
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "292ead71638a2c2e",
-  "name" : "should accept the cookies",
+  "uid" : "8897ffa61776bc67",
+  "name" : "should verify the heading and content of models section",
   "time" : {
-    "start" : 1655243977096,
-    "stop" : 1655243979689,
-    "duration" : 2593
+    "start" : 1655247518066,
+    "stop" : 1655247519647,
+    "duration" : 1581
   },
   "status" : "passed",
-  "severity" : "normal"
+  "severity" : "critical"
+}, {
+  "uid" : "d671f0100434da18",
+  "name" : "should accept the cookies",
+  "time" : {
+    "start" : 1655247509208,
+    "stop" : 1655247512042,
+    "duration" : 2834
+  },
+  "status" : "passed",
+  "severity" : "blocker"
 } ]
