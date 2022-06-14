@@ -1,14 +1,17 @@
 const LandingPage = require('../pageobjects/landing.page');
+const allureReporter = require('@wdio/allure-reporter').default
 
 
 describe('My Landing application', () => {
 
     it('should accept the cookies', async () => {
+        allureReporter.addSeverity('blocker');
         await LandingPage.open();
         await LandingPage.acceptCookies();
     });
 
     it('should have the right title', async () => {
+        allureReporter.addSeverity('normal');
         await browser.maximizeWindow();
         await expect(browser).toHaveTitle('A million more | Volvo Cars - International');
         await expect(LandingPage.modelIntro1).toHaveTextContaining(
@@ -16,19 +19,23 @@ describe('My Landing application', () => {
     });
 
     it('should verify A-million-more video appears on clicking the videolink', async () => {
+        allureReporter.addSeverity('critical');
         await LandingPage.video1.click();
         await expect(LandingPage.videoIframe).toBeExisting();
     });
 
     it('should verify the car safety link', async () => {
+        allureReporter.addSeverity('normal');
         await expect(LandingPage.carSafetyLink).toHaveHrefContaining('car-safety');
     })
 
     it('should verify the video testimonials heading', async () => {
+        allureReporter.addSeverity('normal');
         await expect(LandingPage.videoTestimonialHeading).toHaveText('One of a million');
     })
 
     it('should verify the video testimonials videos and play them', async () => {
+        allureReporter.addSeverity('critical');
         await LandingPage.pageDown();
         await LandingPage.pageDown();
         await expect(LandingPage.videoTestimonial1).toBeExisting();
@@ -47,12 +54,14 @@ describe('My Landing application', () => {
     })
 
     it('should verify the decades of innovation section with link', async () => {
+        allureReporter.addSeverity('normal');
         await LandingPage.pageDown();
         await expect(LandingPage.decadesOfInnovationHeading).toHaveText('Decades of innovation');
         await expect(LandingPage.learnMoreLink).toHaveHrefContaining('/intl/v/car-safety/safety-heritage');
     })
 
     it('should verify the heading and content of models section', async () => {
+        allureReporter.addSeverity('critical');
         await LandingPage.pageDown();
         await expect(LandingPage.exploreOurModelsHeading).toHaveText('Explore our models');
         await expect(LandingPage.model1Name).toHaveText('XC90 Recharge');
