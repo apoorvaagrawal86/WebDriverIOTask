@@ -5,3 +5,12 @@ The initial test result suite is using spec.
 'LandingPage' contains all the locators for the different web elements used in the 'A million more' page.
 'Page' contains the path to the browser URL.
 'a-million-more' spec file contains a number of tests which are created in the 'A million more' page using the locators on 'LandingPage'.
+
+Tests should be run using the command - npm run wdio
+The above command should be run in the root folder of the WebDriverIOTask repository.
+Once the tests are executed, run the following command to generate the results in 'allure-results' folder - 'allure generate allure-results' followed by 'allure open'.
+The allure-open command will open the results in a web browser.
+Use Ctrl+c to exit the allure server.
+For later sessions run the below command to generate results - 'allure generate allure-results/ --clean' followed by 'allure open'.
+The clean command will clean the data in allure-results folder.
+Failing to use the clean command will result in an error.
