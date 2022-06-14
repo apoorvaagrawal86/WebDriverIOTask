@@ -1,0 +1,81 @@
+[ {
+  "uid" : "e7c079d1e6ae21b8",
+  "name" : "should verify the video testimonials heading",
+  "time" : {
+    "start" : 1655243980898,
+    "stop" : 1655243981036,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca40ce88d12bc1df",
+  "name" : "should verify the video testimonials videos and play them",
+  "time" : {
+    "start" : 1655243981037,
+    "stop" : 1655243984003,
+    "duration" : 2966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8978dd4350eafbba",
+  "name" : "should verify the heading and content of models section",
+  "time" : {
+    "start" : 1655243984516,
+    "stop" : 1655243986145,
+    "duration" : 1629
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e08559fa8b23d3e1",
+  "name" : "should verify the decades of innovation section with link",
+  "time" : {
+    "start" : 1655243984003,
+    "stop" : 1655243984516,
+    "duration" : 513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c557d3cd7664edeb",
+  "name" : "should verify the car safety link",
+  "time" : {
+    "start" : 1655243980860,
+    "stop" : 1655243980898,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "405d592458da560e",
+  "name" : "should have the right title",
+  "time" : {
+    "start" : 1655243979690,
+    "stop" : 1655243980543,
+    "duration" : 853
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60642cab36533bdb",
+  "name" : "should verify A-million-more video appears on clicking the videolink",
+  "time" : {
+    "start" : 1655243980543,
+    "stop" : 1655243980860,
+    "duration" : 317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "292ead71638a2c2e",
+  "name" : "should accept the cookies",
+  "time" : {
+    "start" : 1655243977096,
+    "stop" : 1655243979689,
+    "duration" : 2593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

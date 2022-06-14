@@ -1,0 +1,145 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "My Landing application",
+    "children" : [ {
+      "name" : "should accept the cookies",
+      "uid" : "292ead71638a2c2e",
+      "parentUid" : "343fadb8269e5cfed079f4456a7d6152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243977096,
+        "stop" : 1655243979689,
+        "duration" : 2593
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "should have the right title",
+      "uid" : "405d592458da560e",
+      "parentUid" : "343fadb8269e5cfed079f4456a7d6152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243979690,
+        "stop" : 1655243980543,
+        "duration" : 853
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "should verify A-million-more video appears on clicking the videolink",
+      "uid" : "60642cab36533bdb",
+      "parentUid" : "343fadb8269e5cfed079f4456a7d6152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243980543,
+        "stop" : 1655243980860,
+        "duration" : 317
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "should verify the car safety link",
+      "uid" : "c557d3cd7664edeb",
+      "parentUid" : "343fadb8269e5cfed079f4456a7d6152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243980860,
+        "stop" : 1655243980898,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "should verify the video testimonials heading",
+      "uid" : "e7c079d1e6ae21b8",
+      "parentUid" : "343fadb8269e5cfed079f4456a7d6152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243980898,
+        "stop" : 1655243981036,
+        "duration" : 138
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "should verify the video testimonials videos and play them",
+      "uid" : "ca40ce88d12bc1df",
+      "parentUid" : "343fadb8269e5cfed079f4456a7d6152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243981037,
+        "stop" : 1655243984003,
+        "duration" : 2966
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "should verify the decades of innovation section with link",
+      "uid" : "e08559fa8b23d3e1",
+      "parentUid" : "343fadb8269e5cfed079f4456a7d6152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243984003,
+        "stop" : 1655243984516,
+        "duration" : 513
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "should verify the heading and content of models section",
+      "uid" : "8978dd4350eafbba",
+      "parentUid" : "343fadb8269e5cfed079f4456a7d6152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655243984516,
+        "stop" : 1655243986145,
+        "duration" : 1629
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    } ],
+    "uid" : "343fadb8269e5cfed079f4456a7d6152"
+  } ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "292ead71638a2c2e",
+  "name" : "should accept the cookies",
+  "fullName" : "My Landing application.should accept the cookies",
+  "historyId" : "595cd265428f553d1079feb346e11efd",
+  "time" : {
+    "start" : 1655243977096,
+    "stop" : 1655243979689,
+    "duration" : 2593
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should accept the cookies"
+  }, {
+    "name" : "package",
+    "value" : "My Landing application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "292ead71638a2c2e.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "e08559fa8b23d3e1",
+  "name" : "should verify the decades of innovation section with link",
+  "fullName" : "My Landing application.should verify the decades of innovation section with link",
+  "historyId" : "9bd607d96bbb783c2da5b5a8f5f14de",
+  "time" : {
+    "start" : 1655243984003,
+    "stop" : 1655243984516,
+    "duration" : 513
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Landing application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the decades of innovation section with link"
+  }, {
+    "name" : "package",
+    "value" : "My Landing application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e08559fa8b23d3e1.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}
