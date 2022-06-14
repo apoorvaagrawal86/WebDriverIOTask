@@ -1,4 +1,4 @@
-# WebdriverIOTaskTest
+# WebdriverIOTask
 Test suite for automating 'A million more' campaign for Volvo Cars.
 The test suite is created using Webdriver.IO in Page Object Model.
 The initial test result suite is using spec.
